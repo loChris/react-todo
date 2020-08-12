@@ -1,3 +1,7 @@
+React non-persistent to-do list that makes requests to 'https://jsonplaceholder.typicode.com/todos'
+
+Create React App boilerplate Readme:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
